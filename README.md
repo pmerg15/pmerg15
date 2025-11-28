@@ -1,14 +1,15 @@
-# Hi there, Im Pilar 👋
+# Hi there, I'm Pilar 👋
 
-I'm a Computer Science & Cognitive Science double major at Rutgers Universiy 
+I'm a Computer Science & Cognitive Science double major at Rutgers University.  
 
-### Technologies I USe 
-- **Languages: ** Java, Python, JavaScript, HTML/CSS , C
-- **Tools:** Git, GitHub, VS Code, Codedex 
+### 🔧 Technologies I Use
+- **Languages:** Java, Python, JavaScript, HTML/CSS, C  
+- **Tools:** Git, GitHub, VS Code, IntelliJ  
+- **Concepts:** OOP, Data Structures, Algorithms, UI/UX, API Integration  
 
-### Some of My Projects- ☕ **Cafe Curator** — API-based café finder  
-- 🎵 **Playlist Manager** — Stack/Queue-based music system  
-- 📊 **Sorting Visualizer** — Interactive algorithm animations  
+### 💻 Some of My Projects
+- ☕ **Cafe Curator** — API-based café finder with swipe gestures  
+- 🎵 **Playlist Manager** — Queue/stack-based music system  
+- 📊 **Sorting Visualizer** — Interactive sorting animations  
 - 🔤 **Hangman Game** — Python word-guessing game  
-- 🖥️ **Simple GUI (Java Swing)** — Interactive UI with event listeners  
-
+- 🖥️ **Simple GUI (Java Swing)** — Interactive UI with event listeners
