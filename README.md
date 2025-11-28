@@ -8,7 +8,7 @@ I'm a Computer Science & Cognitive Science double major at Rutgers University.
 - **Concepts:** OOP, Data Structures, Algorithms, UI/UX, API Integration  
 
 ### 💻 Some of My Projects
-- ☕ **Cafe Curator** — API-based café finder with swipe gestures  
+- ☕ **Cafe Finder** — API-based café finder with swipe gestures  
 - 🎵 **Playlist Manager** — Queue/stack-based music system  
 - 📊 **Sorting Visualizer** — Interactive sorting animations  
 - 🔤 **Hangman Game** — Python word-guessing game  
