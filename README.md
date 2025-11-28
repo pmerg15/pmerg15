@@ -1,8 +1,5 @@
 # Hi there, Im Pilar 👋
 
-<!--
-**pmerg15/pmerg15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a Computer Science & Cognitive Science double major at Rutgers Universiy 
 
 ### Technologies I USe 
